@@ -1,0 +1,58 @@
+
+
+h1, h2, h3{
+    color: rgb(28, 43, 51);
+    letter-spacing: 0.5px;
+    font-weight: 500;
+}
+h1{
+   font-size: 40px;
+   line-height: 52px;
+}
+
+h2{
+    font-size: 32px;
+    margin-top: 18px;
+    line-height: 42px;
+}
+p{
+    color: rgb(70, 90, 105);
+    font-size: 18px;
+    letter-spacing: 0.25px;
+    margin-top: 18px;
+}
+
+h3{
+    line-height: 29px;
+    font-size: 24px;
+}
+
+span{
+   color: rgb(0, 100, 224);
+   letter-spacing: 0.25px;
+   font-size: 14px;
+}
+
+a{
+    color:rgb(28, 43, 51);
+    display: block;
+    font-size:14px;
+    font-weight:600;
+    letter-spacing: 0.25px;
+    line-height:25px;
+ }
+
+.button_create{
+    background-color: #0064e0;
+    border-radius: 45px;
+    font-size: 14px;
+    min-width: 119px;
+    color: #fff;
+    font-weight: 600;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    line-height: 23px;
+    border: none;
+}
+

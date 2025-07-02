@@ -1,0 +1,29 @@
+
+footer{
+    background-color: rgb(223, 220, 207);
+    text-align: center;
+}
+footer img{
+    margin-bottom: 14px;
+}
+footer a{
+    display: block;
+}
+.logo2{
+    margin-top: 6px;
+    display: flex;
+    justify-content: center;
+}
+.logo2 a img{
+    width: 24px;
+    margin-right: 6px;
+    margin-top: 20px;
+}
+.logo_2{
+    margin-top: 0.5rem;
+    width: 120px;
+}
+
+footer a{
+    cursor: pointer;
+}
